@@ -1,19 +1,49 @@
-# GPTs
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="readme-assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="readme-assets/header-light.svg">
+  <img alt="GPTs · 个人助手目录 · ✦ EricMingle69" src="readme-assets/header-light.svg" width="100%">
+</picture>
 
-铭铭自己的 GPTs。这里用于整理 GPTs 的介绍与使用入口，适合希望了解或使用这些定制助手的读者。
+<p align="center">
+  <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="PERSONAL-NOTICE.md">✦ EricMingle69</a>
+</p>
 
-## 当前内容
+# GPTs · 个人助手目录
 
-当前仓库仅包含本说明和 [LICENSE](LICENSE)，尚未提供具体 GPT 的名称、功能说明、访问链接、提示词或程序；目前也没有 Release 下载内容。
+铭铭自己的 GPTs：用于集中整理定制助手的介绍与使用入口。
+目前是文档起点，尚未补入具体 GPT 条目。
 
-## 从哪里开始
+## 现在有什么
 
-先查看本页的内容状态。待具体 GPT 条目补齐后，可按条目中的功能描述与访问链接使用；当前没有可执行的安装或启动步骤。ChatGPT 端的访问条件以各 GPT 的实际设置为准。
+| 内容 | 状态 |
+| --- | --- |
+| 项目介绍 | 本页 |
+| 许可 | [LICENSE](LICENSE) |
+| GPT 名称与访问链接 | 尚未提供 |
+| 提示词或程序 | 尚未提供 |
+| Release 下载 | 当前没有 |
 
-## 贡献
+无需安装依赖或启动服务；仓库当前没有可执行的 GPT 程序。
+ChatGPT 端的访问条件应以实际 GPT 设置为准。
 
-欢迎通过 Issue 或 Pull Request 建议目录结构、补充已获授权公开的 GPT 介绍与有效入口。条目应说明用途、适用场景与限制，并保留第三方材料的来源；请勿提交账号凭据或私人对话。
+## 一个有用的条目应说明什么
+
+后续加入助手时，可按用途组织，并明确：
+
+- 助手名称与有效访问入口；
+- 适用任务、所需输入与输出形式；
+- 已知限制与平台访问条件；
+- 提示词、素材和外部资料的来源。
+
+以上是目录补充建议，不代表这些助手或功能已经存在。
+不要提交账号凭据、私人对话或无权公开的提示词。
 
 ## 维护与许可
 
-仓库维护：[Ming-Sir-69](https://github.com/Ming-Sir-69)。仓库已有 Apache License 2.0，完整条款见 [LICENSE](LICENSE)。GPT 服务自身的访问与使用安排以其实际平台设置为准。
+仓库保留 [Apache License 2.0](LICENSE)。
+目录的许可不替代 GPT 服务的平台条件，也不授予第三方资料的额外使用权。
+
+---
+
+文档维护：**✦ EricMingle69** · [Ming-Sir-69](https://github.com/Ming-Sir-69)  
+[个人标识、许可与权限说明](PERSONAL-NOTICE.md) · 明暗页眉随 GitHub 主题自动切换。
